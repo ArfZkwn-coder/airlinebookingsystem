@@ -1,6 +1,33 @@
 # Deployment Log & Changelog
 
-## Version History
+## Deployment Log & Changelog
+
+### v0.1.1 — 2026-04-09 — **Documentation & Phase 2 Planning**
+
+**Status:** ✅ **UPDATED**  
+**Deployment:**
+- Commit: `e3b7474` (docs branch merged to main)
+- Deployed: 2026-04-09 14:45 UTC
+
+**Changes:**
+- ✅ Added [docs/TESTING.md](../docs/TESTING.md) — Validation checklist for Mimi in VS Code
+- ✅ Added [docs/PHASE2-ROADMAP.md](../docs/PHASE2-ROADMAP.md) — Detailed Phase 2 skills roadmap (6 skills, 8-week timeline)
+- ✅ Updated README.md with Mimi overview and quick-start guide
+- ✅ Updated `.github/copilot-instructions.md` with TESTING.md reference
+
+**Phase 2 Planning Highlights:**
+- **6 Reusable Skills:** Component scaffolding, Prisma queries, hooks, API routes, forms, test coverage
+- **Timeline:** 8 weeks (May-July 2026)
+- **Target Release:** v0.2.0 (July 2026)
+- **Success Metrics:** 50% reduction in boilerplate, 90%+ test coverage, zero `any` types
+
+**Next Steps:**
+1. ⏳ User testing phase (collect feedback from Phase 1)
+2. Prioritize Phase 2 skills based on feedback
+3. Create SKILL.md files for top 3 priorities
+4. Begin implementation (target: 2026-05-01)
+
+---
 
 ### v0.1.0 — 2026-04-09 — **Bootstrap Release**
 

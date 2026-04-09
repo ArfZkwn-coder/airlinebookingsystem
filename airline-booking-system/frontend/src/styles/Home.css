@@ -1,0 +1,129 @@
+/* Home Page */
+.home-page {
+  padding: 20px;
+}
+
+.hero {
+  background: linear-gradient(135deg, #0066cc 0%, #0052a3 100%);
+  color: white;
+  padding: 60px 40px;
+  text-align: center;
+  border-radius: 8px;
+  margin-bottom: 40px;
+}
+
+.hero h1 {
+  font-size: 44px;
+  margin-bottom: 10px;
+}
+
+.hero p {
+  font-size: 18px;
+  opacity: 0.9;
+}
+
+/* Search Card */
+.search-card {
+  background: white;
+  padding: 30px;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  margin-bottom: 40px;
+}
+
+.search-card form {
+  width: 100%;
+}
+
+.search-card button {
+  align-self: flex-end;
+  margin-top: 16px;
+}
+
+/* Flights Grid */
+.popular-flights {
+  margin-bottom: 40px;
+}
+
+.popular-flights h2 {
+  margin-bottom: 20px;
+  color: #333;
+}
+
+.flights-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 20px;
+}
+
+.flight-card {
+  background: white;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.flight-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.15);
+}
+
+.flight-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 15px;
+}
+
+.flight-header h3 {
+  margin: 0;
+  color: #333;
+}
+
+.airline {
+  background-color: #f0f0f0;
+  padding: 4px 12px;
+  border-radius: 20px;
+  font-size: 12px;
+  color: #666;
+}
+
+.flight-route {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin: 20px 0;
+  padding: 15px 0;
+  border-top: 1px solid #eee;
+  border-bottom: 1px solid #eee;
+}
+
+.city {
+  text-align: center;
+  font-weight: 600;
+  color: #0066cc;
+}
+
+.arrow {
+  color: #ccc;
+  font-size: 20px;
+}
+
+.flight-price {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 15px;
+}
+
+.price {
+  font-size: 24px;
+  font-weight: bold;
+  color: #0066cc;
+}
+
+.seats {
+  font-size: 12px;
+  color: #999;
+}

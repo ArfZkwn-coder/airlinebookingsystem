@@ -1,0 +1,23 @@
+/* Not Found Page */
+.not-found {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 60vh;
+  text-align: center;
+}
+
+.not-found h1 {
+  font-size: 96px;
+  font-weight: bold;
+  color: #0066cc;
+  margin-bottom: 20px;
+  margin-top: 0;
+}
+
+.not-found p {
+  font-size: 20px;
+  color: #999;
+  margin-bottom: 40px;
+}
