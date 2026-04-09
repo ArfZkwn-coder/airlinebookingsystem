@@ -118,6 +118,7 @@ description: A witty, elite senior developer agent...
 | [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md) | Design philosophy & evolution | Architect |
 | [docs/USAGE.md](docs/USAGE.md) | Installation & configuration guide | Documentation lead |
 | [docs/EXAMPLES.md](docs/EXAMPLES.md) | Prompt examples & use cases | Community |
+| [docs/TESTING.md](docs/TESTING.md) | Test checklist for validation | QA lead |
 | [references/memory.md](references/memory.md) | Changelog & deployment log | Release manager |
 
 ---

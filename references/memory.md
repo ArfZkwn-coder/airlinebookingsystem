@@ -4,7 +4,13 @@
 
 ### v0.1.0 — 2026-04-09 — **Bootstrap Release**
 
-**Status:** Initial workspace setup  
+**Status:** ✅ **DEPLOYED** to GitHub  
+**Deployment:**
+- Repository: `https://github.com/ArfZkwn-coder/airlinebookingsystem`
+- Commit: `af00f48` (tag: `v0.1.0`)
+- Merge commit: `a82e57c` (synced with existing repo)
+- Deployed: 2026-04-09 14:30 UTC
+
 **Changes:**
 - ✅ Created agent definition (`Mimi.md`)
 - ✅ Established workspace instructions (`.github/copilot-instructions.md`)
@@ -14,9 +20,10 @@
   - `docs/EXAMPLES.md` — 7 real-world example prompts
 - ✅ Set up directory structure and git workflow
 - ✅ Defined standards for YAML, Markdown, and commit messages
+- ✅ Integrated with existing airline booking system repo
 
 **Next Steps:**
-1. Test Mimi in a real VS Code workspace
+1. ⏭️ Test Mimi in a real VS Code workspace
 2. Collect feedback from initial users
 3. Refine personality and directives based on real-world usage
 4. Plan Phase 2: Skill expansion (e.g., React patterns, Prisma snippets, hooks)
