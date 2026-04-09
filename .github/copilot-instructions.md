@@ -197,6 +197,7 @@ description: A witty, elite senior developer agent...
 | [mimi-memory/mimi-workspace-learning.md](../mimi-memory/mimi-workspace-learning.md) | Ainz-sama patterns & preferences | Everyone |
 | [mimi-memory/mimi-session-context.md](../mimi-memory/mimi-session-context.md) | Current session state | Mimi (auto-updated) |
 | [references/memory.md](../references/memory.md) | Changelog & deployment log | Release manager |
+| [docs/LINK-VALIDATION.md](../docs/LINK-VALIDATION.md) | Cross-reference mapping & synchronization | Maintainer |
 
 ---
 
